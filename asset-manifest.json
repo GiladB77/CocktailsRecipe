@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CocktailsRecipe/static/css/main.b68d7dbc.chunk.css",
+    "main.js": "/CocktailsRecipe/static/js/main.4e19caaa.chunk.js",
+    "main.js.map": "/CocktailsRecipe/static/js/main.4e19caaa.chunk.js.map",
+    "runtime-main.js": "/CocktailsRecipe/static/js/runtime-main.c20b650f.js",
+    "runtime-main.js.map": "/CocktailsRecipe/static/js/runtime-main.c20b650f.js.map",
+    "static/js/2.e81e3067.chunk.js": "/CocktailsRecipe/static/js/2.e81e3067.chunk.js",
+    "static/js/2.e81e3067.chunk.js.map": "/CocktailsRecipe/static/js/2.e81e3067.chunk.js.map",
+    "static/js/3.5278e898.chunk.js": "/CocktailsRecipe/static/js/3.5278e898.chunk.js",
+    "static/js/3.5278e898.chunk.js.map": "/CocktailsRecipe/static/js/3.5278e898.chunk.js.map",
+    "index.html": "/CocktailsRecipe/index.html",
+    "static/css/main.b68d7dbc.chunk.css.map": "/CocktailsRecipe/static/css/main.b68d7dbc.chunk.css.map",
+    "static/js/2.e81e3067.chunk.js.LICENSE.txt": "/CocktailsRecipe/static/js/2.e81e3067.chunk.js.LICENSE.txt",
+    "static/media/coctail.d6fba7c0.jpg": "/CocktailsRecipe/static/media/coctail.d6fba7c0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c20b650f.js",
+    "static/js/2.e81e3067.chunk.js",
+    "static/css/main.b68d7dbc.chunk.css",
+    "static/js/main.4e19caaa.chunk.js"
+  ]
+}
